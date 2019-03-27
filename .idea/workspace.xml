@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/RandomIntegerArray2D.java" line="44" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/RandomIntegerArray2D.java" line="44" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f021f166-1531-4daf-8bdf-777a605dcba2" name="Default Changelist" comment="" />
+    <list default="true" id="f021f166-1531-4daf-8bdf-777a605dcba2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/META-INF/HW3_JavaBasicProgramStructures.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task1_sortArray/Task1_sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task2_factorial/Task2_factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task3_nestedLoops/Task3a_simpleNestedLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task3_nestedLoops/Task3b_advancedNestedLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4a_1_odd_99.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4b_rand20_0_to_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4c_rand10_1_to_100_oddIndex_to_0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4d_rand15_neg50_to_50_min_max.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4e_2rand10_0_to_10_avg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4f_rand20_neg1_to_1_freq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/RandomDoubleArray2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/RandomIntegerArray2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5a_8x8_1to99_sum_mult_diag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5b_8x5_neg99to99_max_elem_index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5c_8x5_neg10to10_mult_line_max_index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5d_10x7_0to100_sort_lines.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/Array50_0to10_ElseIfSwitchCaseTestDrive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/EnumElseIfSwitchCaseTestDrive$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/EnumElseIfSwitchCaseTestDrive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW3_JavaBasicProgramStructures/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/WorkingDays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task1_sortArray/Task1_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task1sortarray/Task1sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task2_factorial/Task2_factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task2factorial/Task2factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task3_nestedLoops/Task3a_simpleNestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task3nestedloops/Task3aSimpleNestedLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task3_nestedLoops/Task3b_advancedNestedLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task3nestedloops/Task3bAdvancedNestedLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4a_1_odd_99.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task4onedimensionalarrays/Task4a1odd99.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4b_rand20_0_to_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task4onedimensionalarrays/Task4bRand20with0to10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4c_rand10_1_to_100_oddIndex_to_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task4onedimensionalarrays/Task4cRand10with1to100oddIndexTo0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4d_rand15_neg50_to_50_min_max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task4onedimensionalarrays/Task4dRand15neg50to50minMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4e_2rand10_0_to_10_avg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task4onedimensionalarrays/Task4e2rand10with0to10avg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4f_rand20_neg1_to_1_freq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task4onedimensionalarrays/Task4fRand20neg1to1freq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/RandomDoubleArray2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/RandomDoubleArray2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/RandomIntegerArray2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/RandomIntegerArray2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5a_8x8_1to99_sum_mult_diag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/Task5a8x8with1to99sumMultDiag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5b_8x5_neg99to99_max_elem_index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/Task5b8x5neg99to99maxElemIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5c_8x5_neg10to10_mult_line_max_index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/Task5c8x5neg10to10multLineMaxIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5d_10x7_0to100_sort_lines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/Task5d10x7with0to100sortLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/Array50_0to10_ElseIfSwitchCaseTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task6elseifswitchcase/Array50with0to10elseIfSwitchCaseTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/EnumElseIfSwitchCaseTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task6elseifswitchcase/EnumElseIfSwitchCaseTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/WorkingDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task6elseifswitchcase/WorkingDays.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,27 +59,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/RandomDoubleArray2D.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/RandomDoubleArray2D.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="550">
               <caret line="25" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5b_8x5_neg99to99_max_elem_index.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/Task5b8x5neg99to99maxElemIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            <state relative-caret-position="176">
+              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/RandomIntegerArray2D.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/RandomIntegerArray2D.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
+            <state relative-caret-position="1298">
               <caret line="61" column="56" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -45,48 +89,63 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5d_10x7_0to100_sort_lines.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/Task5d10x7with0to100sortLines.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="220">
               <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/EnumElseIfSwitchCaseTestDrive.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task6elseifswitchcase/EnumElseIfSwitchCaseTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
+            <state relative-caret-position="836">
               <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="39" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/Array50_0to10_ElseIfSwitchCaseTestDrive.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task6elseifswitchcase/Array50with0to10elseIfSwitchCaseTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-186">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="396">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task1sortarray/Task1sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2684">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/WorkingDays.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task4onedimensionalarrays/Task4cRand10with1to100oddIndexTo0.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="458">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task6elseifswitchcase/WorkingDays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
               <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5c_8x5_neg10to10_mult_line_max_index.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/Task5c8x5neg10to10multLineMaxIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="176">
               <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
             </state>
           </provider>
@@ -101,6 +160,9 @@
         <option value="Enum" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -134,10 +196,13 @@
         <option value="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/WorkingDays.java" />
         <option value="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/EnumElseIfSwitchCaseTestDrive.java" />
         <option value="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/Array50_0to10_ElseIfSwitchCaseTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task6_elseIf_switchCase/Array50_0to10_ElseIfSwitchCaseTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task6elseIfswitchcase/Array50_0to10_ElseIfSwitchCaseTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task6elseifswitchcase/Array50_0to10_ElseIfSwitchCaseTestDrive.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -148,16 +213,112 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="HW3_JavaBasicProgramStructures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="HW3_JavaBasicProgramStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="ru" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="HW3_JavaBasicProgramStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="ru" type="462c0819:PsiDirectoryNode" />
+              <item name="parhomych" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="HW3_JavaBasicProgramStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="ru" type="462c0819:PsiDirectoryNode" />
+              <item name="parhomych" type="462c0819:PsiDirectoryNode" />
+              <item name="netcracker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="HW3_JavaBasicProgramStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="ru" type="462c0819:PsiDirectoryNode" />
+              <item name="parhomych" type="462c0819:PsiDirectoryNode" />
+              <item name="netcracker" type="462c0819:PsiDirectoryNode" />
+              <item name="hw3jbps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="HW3_JavaBasicProgramStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="ru" type="462c0819:PsiDirectoryNode" />
+              <item name="parhomych" type="462c0819:PsiDirectoryNode" />
+              <item name="netcracker" type="462c0819:PsiDirectoryNode" />
+              <item name="hw3jbps" type="462c0819:PsiDirectoryNode" />
+              <item name="task1sortarray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hw3jbps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NC-Java-HW3_JavaBasicProgramStructures(проба git)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hw3jbps" type="462c0819:PsiDirectoryNode" />
+              <item name="task1sortarray" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552753516033" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553670643074" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HW2_OOP_2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -182,13 +343,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Array50_0to10_ElseIfSwitchCaseTestDrive">
-    <configuration name="Array50_0to10_ElseIfSwitchCaseTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.parhomych.netcracker.hw3_JBPS.task6_elseIf_switchCase.Array50_0to10_ElseIfSwitchCaseTestDrive" />
+  <component name="RunManager" selected="Application.Task1sort">
+    <configuration name="Array50with0to10elseIfSwitchCaseTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.parhomych.netcracker.hw3jbps.task6elseifswitchcase.Array50with0to10elseIfSwitchCaseTestDrive" />
       <module name="HW3_JavaBasicProgramStructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.parhomych.netcracker.hw3_JBPS.task6_elseIf_switchCase.*" />
+          <option name="PATTERN" value="ru.parhomych.netcracker.hw3jbps.task6elseifswitchcase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +358,11 @@
       </method>
     </configuration>
     <configuration name="EnumElseIfSwitchCaseTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.parhomych.netcracker.hw3_JBPS.task6_elseIf_switchCase.EnumElseIfSwitchCaseTestDrive" />
+      <option name="MAIN_CLASS_NAME" value="ru.parhomych.netcracker.hw3jbps.task6elseifswitchcase.EnumElseIfSwitchCaseTestDrive" />
       <module name="HW3_JavaBasicProgramStructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.parhomych.netcracker.hw3_JBPS.task6_elseIf_switchCase.*" />
+          <option name="PATTERN" value="ru.parhomych.netcracker.hw3jbps.task6elseifswitchcase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +370,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5b_8x5_neg99to99_max_elem_index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.parhomych.netcracker.hw3_JBPS.task5_arrays2D.Task5b_8x5_neg99to99_max_elem_index" />
+    <configuration name="Task1sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.parhomych.netcracker.hw3jbps.task1sortarray.Task1sort" />
       <module name="HW3_JavaBasicProgramStructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.parhomych.netcracker.hw3_JBPS.task5_arrays2D.*" />
+          <option name="PATTERN" value="ru.parhomych.netcracker.hw3jbps.task1sortarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,12 +383,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5c_8x5_neg10to10_mult_line_max_index" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.parhomych.netcracker.hw3_JBPS.task5_arrays2D.Task5c_8x5_neg10to10_mult_line_max_index" />
+    <configuration name="Task5c8x5neg10to10multLineMaxIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.parhomych.netcracker.hw3jbps.task5arrays2d.Task5c8x5neg10to10multLineMaxIndex" />
       <module name="HW3_JavaBasicProgramStructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.parhomych.netcracker.hw3_JBPS.task5_arrays2D.*" />
+          <option name="PATTERN" value="ru.parhomych.netcracker.hw3jbps.task5arrays2d.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,12 +396,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5d_10x7_0to100_sort_lines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.parhomych.netcracker.hw3_JBPS.task5_arrays2D.Task5d_10x7_0to100_sort_lines" />
+    <configuration name="Task5d10x7with0to100sortLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.parhomych.netcracker.hw3jbps.task5arrays2d.Task5d10x7with0to100sortLines" />
       <module name="HW3_JavaBasicProgramStructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.parhomych.netcracker.hw3_JBPS.task5_arrays2D.*" />
+          <option name="PATTERN" value="ru.parhomych.netcracker.hw3jbps.task5arrays2d.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,11 +411,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array50_0to10_ElseIfSwitchCaseTestDrive" />
+        <item itemvalue="Application.Task1sort" />
+        <item itemvalue="Application.Array50with0to10elseIfSwitchCaseTestDrive" />
         <item itemvalue="Application.EnumElseIfSwitchCaseTestDrive" />
-        <item itemvalue="Application.Task5d_10x7_0to100_sort_lines" />
-        <item itemvalue="Application.Task5c_8x5_neg10to10_mult_line_max_index" />
-        <item itemvalue="Application.Task5b_8x5_neg99to99_max_elem_index" />
+        <item itemvalue="Application.Task5d10x7with0to100sortLines" />
+        <item itemvalue="Application.Task5c8x5neg10to10multLineMaxIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -276,11 +437,12 @@
       <workItem from="1552643266708" duration="14952000" />
       <workItem from="1552720528086" duration="12678000" />
       <workItem from="1552771363489" duration="1894000" />
+      <workItem from="1553669282911" duration="1351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50751000" />
+    <option name="totallyTimeSpent" value="52102000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -292,10 +454,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19591528" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21055438" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -304,16 +465,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3420622" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.34127843" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.34127843" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -330,104 +491,93 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar://D:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/DualPivotQuicksort.java" />
     <entry file="jar://D:/Program Files/Java/jdk-10/lib/src.zip!/java.base/java/util/Arrays.java" />
     <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task1v2.java" />
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task1_sortArray/Task1_sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task2_factorial/Task2_factorial.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task2factorial/Task2factorial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task3_nestedLoops/Task3a_simpleNestedLoop.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task3nestedloops/Task3aSimpleNestedLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" selection-start-line="4" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task3_nestedLoops/Task3b_advancedNestedLoops.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task3nestedloops/Task3bAdvancedNestedLoops.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2074">
           <caret line="122" column="43" selection-start-line="122" selection-start-column="43" selection-end-line="122" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4a_1_odd_99.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task4onedimensionalarrays/Task4a1odd99.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="103" selection-start-line="5" selection-start-column="103" selection-end-line="5" selection-end-column="103" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4b_rand20_0_to_10.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task4onedimensionalarrays/Task4bRand20with0to10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4c_rand10_1_to_100_oddIndex_to_0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5a_8x8_1to99_sum_mult_diag.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/Task5a8x8with1to99sumMultDiag.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4e_2rand10_0_to_10_avg.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task4onedimensionalarrays/Task4e2rand10with0to10avg.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="50" column="39" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4f_rand20_neg1_to_1_freq.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task4onedimensionalarrays/Task4fRand20neg1to1freq.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task4_oneDimensionalArrays/Task4d_rand15_neg50_to_50_min_max.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task4onedimensionalarrays/Task4dRand15neg50to50minMax.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/RandomDoubleArray2D.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/RandomDoubleArray2D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="550">
           <caret line="25" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5b_8x5_neg99to99_max_elem_index.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/Task5b8x5neg99to99maxElemIndex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        <state relative-caret-position="176">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/RandomIntegerArray2D.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/RandomIntegerArray2D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
+        <state relative-caret-position="1298">
           <caret line="61" column="56" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -435,41 +585,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5d_10x7_0to100_sort_lines.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/Task5d10x7with0to100sortLines.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="220">
           <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/EnumElseIfSwitchCaseTestDrive.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task6elseifswitchcase/EnumElseIfSwitchCaseTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
+        <state relative-caret-position="836">
           <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="39" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/WorkingDays.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task6elseifswitchcase/WorkingDays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="66">
           <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task5_arrays2D/Task5c_8x5_neg10to10_mult_line_max_index.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task5arrays2d/Task5c8x5neg10to10multLineMaxIndex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="176">
           <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3_JBPS/task6_elseIf_switchCase/Array50_0to10_ElseIfSwitchCaseTestDrive.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task4onedimensionalarrays/Task4cRand10with1to100oddIndexTo0.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-186">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="458">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task6elseifswitchcase/Array50with0to10elseIfSwitchCaseTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/parhomych/netcracker/hw3jbps/task1sortarray/Task1sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2684">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
